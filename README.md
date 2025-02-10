@@ -1,5 +1,11 @@
 # Josephine start learning JDK!
 
+Router to learn jdk:
+
+- java.lang.String
+
+### reference
+
 For build instructions please see the
 [online documentation](https://openjdk.org/groups/build/doc/building.html),
 or either of these files:
